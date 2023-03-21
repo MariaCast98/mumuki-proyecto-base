@@ -15,7 +15,7 @@ Este proyecto abarca la:
 - Análisis funcionales con InterPro
 
 
-#1. Paquetes requeridos para ejecutar el código:
+1. Paquetes requeridos para ejecutar el código:
 
 - pyCirclize: para visualizar nuestros datos genómicos
 - pyrodigal: para la predicción de genes codificantes
@@ -26,7 +26,7 @@ Este proyecto abarca la:
 - io: para conectar las entradas y salidas de los distintos programas
 - pandas:para el manejo general de datos
 
-#2. Programas adicionales
+2. Programas adicionales
 
 -NCBI-Blast+: para comparar las secuencias
 
