@@ -12,7 +12,7 @@ Este proyecto abarca la:
 - Análisis de homología con BLASTp
 - Visualización de resultados de anotación con pyCirclize
 - Análisis funcionales con InterPro
-- 
+
 1. Paquetes requeridos para ejecutar el código:
 - pyCirclize: para visualizar nuestros datos genómicos
 - pyrodigal: para la predicción de genes codificantes
