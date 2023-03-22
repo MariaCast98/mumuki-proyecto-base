@@ -14,27 +14,27 @@ Este realiza la:
 - Análisis funcionales con InterPro
 
 1. Paquetes requeridos para ejecutar el código:
-- pyCirclize: para visualizar nuestros datos genómicos
-- pyrodigal: para la predicción de genes codificantes
-- requests: para interactuar con las APIs de NCBI, UniProt e InterProScan
-- seaborn: para visualizar algunas de las propiedades genómicas obtenidas
-- subprocess: ejecutar comandos fuera del entorno de python
-- BioPython: para el manejo de secuencias
-- io: para conectar las entradas y salidas de los distintos programas
-- pandas:para el manejo general de datos
+  - pyCirclize: para visualizar nuestros datos genómicos
+  - pyrodigal: para la predicción de genes codificantes
+  - requests: para interactuar con las APIs de NCBI, UniProt e InterProScan
+  - seaborn: para visualizar algunas de las propiedades genómicas obtenidas
+  - subprocess: ejecutar comandos fuera del entorno de python
+  - BioPython: para el manejo de secuencias
+  - io: para conectar las entradas y salidas de los distintos programas
+  - pandas:para el manejo general de datos
 
 2. Programas adicionales
 
--NCBI-Blast+: para comparar las secuencias
+  - NCBI-Blast+: para comparar las secuencias
 
 3. Corrida:
 
-Toda la información requerida para la ejecución del código se encuentra en el archivo Proyecto_final_WBDSLA.ipynb 
-Todo se ejecutó mediante el uso de Google Colaborative, por lo en el archivo encontrarán todos los códigos usado para el análisis.
+  Toda la información requerida para la ejecución del código se encuentra en el archivo Proyecto_final_WBDSLA.ipynb 
+  Todo se ejecutó mediante el uso de Google Colaborative, por lo en el archivo encontrarán todos los códigos usado para el  análisis.
 
 4. Archivos de entrada y salida
 
-*Archivos de salida*
+  *Archivos de salida*
 
 - CP116936.1.blast.tsv
 - CP116936.1.faa
@@ -46,5 +46,5 @@ Todo se ejecutó mediante el uso de Google Colaborative, por lo en el archivo en
 
 5. Conclusiones
 
-Se logró extraer un operon relacionado a la producción de antibióticos en Micromonospora sp. y adicionalmente identificar las proteínas que conformaban este operon de manera funcional usando Interproscan.
-Sin embargo, cuando se realizó la búsqueda de operones encontramos muchos relacionados a producción de antibióticos, por lo cual sería necesario realizar un filtrado al momento de realizar la búsqueda de secuencias de referencias en Uniprot, de forma que tengamos un filtrado más específico de producción de antibióticos para este género.
+  Se logró extraer un operon relacionado a la producción de antibióticos en Micromonospora sp. y adicionalmente identificar las proteínas que conformaban este operon de manera funcional usando Interproscan.
+  Sin embargo, cuando se realizó la búsqueda de operones encontramos muchos relacionados a producción de antibióticos, por lo cual sería necesario realizar un filtrado al momento de realizar la búsqueda de secuencias de referencias en Uniprot, de forma que tengamos un filtrado más específico de producción de antibióticos para este género.
