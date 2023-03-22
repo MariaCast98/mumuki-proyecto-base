@@ -1,7 +1,7 @@
 # mumuki-proyecto-base
 
 El objetivo de este proyecto fue analizar el genoma de la bacteria Micromonospora sp.
-Las especies de Micromonospora han sido reconocidas durante mucho tiempo como fuentes importantes de antibióticos y recientemente se ha reportado la presencia de anticoccidiales.
+Las especies de Micromonospora han sido reconocida durante mucho tiempo como una especie productora de gran cantidad de antibióticos.
 
 Por lo que se tomó una secuencia de una especie de este género no identificada pero con una capacidad promisoria de síntesis de compuestos antimicrobianos comprobado mendiante la inhibición del crecimiento de cepas bacterianas tipo (ATCC).
 A partir de la predicción de genes, se realizó una búsqueda de genes relacionados a la síntesis de antibióticos.
